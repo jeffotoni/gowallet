@@ -1,7 +1,7 @@
 {
   "info": {
     "_postman_id": "7b29b0be-4b38-4a84-9b4c-3d6c2f31b7f1",
-    "name": "Jungle Backend API",
+    "name": "GoWallet Backend API",
     "description": "Collection das rotas HTTP expostas por cmd/api. Configure os tokens OIDC nas variáveis da collection antes de executar as rotas protegidas.",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
   },

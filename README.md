@@ -1,4 +1,4 @@
-# Jungle Backend
+# GoWallet Backend
 
 Distributed Go backend for wallet and wagering operations.
 
